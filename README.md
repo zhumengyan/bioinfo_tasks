@@ -11,3 +11,8 @@
 ###  2018.04.02
 文件名： sra-download.sh
 用途： 下载sra数据库文件,wget
+
+***
+###  2018.04.07
+文件名： sra_to_fastq.sh
+用途： .sra to .fastq
